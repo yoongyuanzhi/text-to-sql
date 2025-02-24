@@ -12,3 +12,9 @@ Future improvements:
 2. Langsmith or custom basetool for extracting each thought process (currently uses prompt template to specify expected output)
 3. Exploration of free models such as text-to-sql instead of OpenAI
 4. Building a streamlit application to provide simple user interface
+
+
+Credit goes to this youtuber Pradip Nichite:
+
+https://blog.futuresmart.ai/langchain-sql-agents-openai-llms-query-database-using-natural-language
+https://youtu.be/VG9KYCS0-8E?feature=shared
